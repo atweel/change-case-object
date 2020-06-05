@@ -31,11 +31,11 @@
   "dependencies": {
     "camel-case": "^1.2.0",
     "param-case": "^1.1.1",
-    "snake-case": "^1.1.1"
+    "snake-case": "^1.1.1",
+    "constant-case": "^3.0.3"
   },
   "devDependencies": {
     "chai": "^3.4.1",
-    "constant-case": "^3.0.3",
     "coveralls": "^2.11.6",
     "eslint": "^1.10.3",
     "eslint-config-airbnb": "^2.0.0",
