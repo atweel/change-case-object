@@ -41,7 +41,7 @@ Converts all object keys into snake case.
 Converts all object keys into param case.  
 `helloWorld -> hello-world`
 
-### .paramCase
+### .constantCase
 Converts all object keys into constant case.  
 `helloWorld -> HELLO_WORLD`
 
